@@ -1,0 +1,16 @@
+# Core ML stack
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+seaborn
+shap
+jupyter
+joblib
+
+# Deployment stack
+flask
+uvicorn
+fastapi
