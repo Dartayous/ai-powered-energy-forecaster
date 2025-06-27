@@ -41,6 +41,13 @@ Whether you're evaluating predictive modeling skills, backend API integration, o
 
 ---
 
+---
+
+### 🏷️ Tags
+
+`#machine-learning` `#fastapi` `#energy-modeling` `#regression` `#shap` `#explainable-ai` `#python` `#ai-engineering` `#api` `#sustainability`
+
+---
 ### 📂 Repo Structure
 
 ```bash
