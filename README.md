@@ -1,4 +1,10 @@
-![AI-Powered Energy Forecaster](Energy_Forecaster_Banner.png)
+<p align="center">
+  <img src="assets/Energy_Forecaster_Banner.png" alt="AI-Powered Energy Forecaster Banner" width="100%">
+</p>
+
+<h1 align="center">🔋 AI-Powered Energy Forecaster</h1>
+<p align="center"><i>Machine Learning Pipeline for Building Energy Prediction — Designed for Insight, Built for Deployment</i></p>
+
 
 # AI-Powered Energy Forecaster 🔋⚡
 
