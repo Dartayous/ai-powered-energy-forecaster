@@ -1,41 +1,58 @@
-# 🏠 Tabular Regression: Energy Efficiency Prediction
+![AI-Powered Energy Forecaster](Energy_Forecaster_Banner.png)
 
-A modular machine learning pipeline for predicting heating load from building characteristics using the Energy Efficiency dataset.
+# AI-Powered Energy Forecaster 🔋⚡
 
-## 🔍 Overview
+A production-grade machine learning pipeline designed to forecast building heating loads using architectural and environmental data. Built with performance, clarity, and explainability in mind, this project combines FastAPI, scikit-learn, and SHAP for real-time inference and transparent model interpretation.
 
-This project demonstrates a full ML workflow for tabular regression:
-- Data loading and preprocessing
-- Model training and evaluation
-- Inference on new samples
-- Performance tracking and explainability-ready structure
+Ideal for roles in **AI engineering**, **machine learning development**, or **data-driven energy analysis**, this repo highlights:
 
-## 📁 Project Structure
+- Deployment-ready model serving with FastAPI
+- Batch prediction automation via client scripts
+- End-to-end explainability with SHAP visualizations
+- Clean modular code for scaling and refinement
 
+Whether you're evaluating predictive modeling skills, backend API integration, or AI explainability, this project reflects a strong foundation in applied machine learning practices.
 
-data/           # Where your raw and cleaned CSV files go
+---
 
-models/         # Where your training scripts and saved ML models live
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10-blue.svg" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-HighPerformance-green.svg" alt="FastAPI Badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-MachineLearning-orange.svg" alt="scikit-learn Badge"/>
+  <img src="https://img.shields.io/badge/SHAP-Explainability-purple.svg" alt="SHAP Badge"/>
+  <img src="https://img.shields.io/badge/pandas-DataScience-lightgrey.svg" alt="pandas Badge"/>
+</p>
 
-inference/      # Scripts that make predictions on new data
+---
+### 🚀 Features
 
-outputs/        # Auto-generated stuff: metrics, plots, visuals
+- Trains and evaluates a regression model on real-world energy data
+- Serves predictions via a FastAPI endpoint at `/predict`
+- Batch testing with `predict_client.py` for real-time inference
+- SHAP integration to visualize feature contributions per prediction
+- Heatmaps and pairplots for model + data storytelling
+- Notebook included: `ai_powered_energy_forecaster.ipynb`
 
-notebooks/      # Optional: your Jupyter dev notebooks
+---
 
-
-
-
-
-
-
-
-
-## 🚀 How to Run
+### 📂 Repo Structure
 
 ```bash
-python models/train_model.py
-python inference/predict.py
+├── api/                    # FastAPI app to serve the model
+├── models/                 # Training scripts and saved .pkl model
+├── inference/              # Lightweight prediction interface
+├── outputs/                # Batch predictions and SHAP visuals
+├── ai_powered_energy_forecaster.ipynb  # EDA + SHAP notebook
+├── predict_client.py       # POSTs sample payloads to API
+├── requirements.txt
+└── README.md
 
+📄 License
+This project is licensed under the MIT License — feel free to use, modify, and share it as long as you include proper attribution.
 
+👤 Author
+Created by Dartayous — blending cinematic storytelling and AI engineering to deliver intelligent, creative tech.
 
+🔗 GitHub Profile
+
+🧠 [LinkedIn or personal portfolio link if you want to include it later]
