@@ -65,7 +65,3 @@ This project is licensed under the MIT License — feel free to use, modify, and
 
  Author
 Created by Dartayous — blending cinematic storytelling and AI engineering to deliver intelligent, creative tech.
-
- GitHub Profile
-
- [LinkedIn or personal portfolio link if you want to include it later]
