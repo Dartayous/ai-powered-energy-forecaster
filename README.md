@@ -63,9 +63,9 @@ Whether you're evaluating predictive modeling skills, backend API integration, o
  License
 This project is licensed under the MIT License — feel free to use, modify, and share it as long as you include proper attribution.
 
-👤 Author
+ Author
 Created by Dartayous — blending cinematic storytelling and AI engineering to deliver intelligent, creative tech.
 
-🔗 GitHub Profile
+ GitHub Profile
 
  [LinkedIn or personal portfolio link if you want to include it later]
