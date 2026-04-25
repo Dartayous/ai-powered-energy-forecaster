@@ -2,11 +2,11 @@
   <img src="assets/Energy_Forecaster_Banner.png" alt="AI-Powered Energy Forecaster Banner" width="100%">
 </p>
 
-<h1 align="center">🔋 AI-Powered Energy Forecaster</h1>
+<h1 align="center"> AI-Powered Energy Forecaster</h1>
 <p align="center"><i>Machine Learning Pipeline for Building Energy Prediction — Designed for Insight, Built for Deployment</i></p>
 
 
-# AI-Powered Energy Forecaster 🔋⚡
+# AI-Powered Energy Forecaster 
 
 A production-grade machine learning pipeline designed to forecast building heating loads using architectural and environmental data. Built with performance, clarity, and explainability in mind, this project combines FastAPI, scikit-learn, and SHAP for real-time inference and transparent model interpretation.
 
