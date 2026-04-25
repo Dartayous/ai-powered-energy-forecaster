@@ -30,7 +30,7 @@ Whether you're evaluating predictive modeling skills, backend API integration, o
 </p>
 
 ---
-### 🚀 Features
+###  Features
 
 - Trains and evaluates a regression model on real-world energy data
 - Serves predictions via a FastAPI endpoint at `/predict`
@@ -43,12 +43,12 @@ Whether you're evaluating predictive modeling skills, backend API integration, o
 
 ---
 
-### 🏷️ Tags
+###  Tags
 
 `#machine-learning` `#fastapi` `#energy-modeling` `#regression` `#shap` `#explainable-ai` `#python` `#ai-engineering` `#api` `#sustainability`
 
 ---
-### 📂 Repo Structure
+###  Repo Structure
 
 ```bash
 ├── api/                    # FastAPI app to serve the model
@@ -60,7 +60,7 @@ Whether you're evaluating predictive modeling skills, backend API integration, o
 ├── requirements.txt
 └── README.md
 
-📄 License
+ License
 This project is licensed under the MIT License — feel free to use, modify, and share it as long as you include proper attribution.
 
 👤 Author
@@ -68,4 +68,4 @@ Created by Dartayous — blending cinematic storytelling and AI engineering to d
 
 🔗 GitHub Profile
 
-🧠 [LinkedIn or personal portfolio link if you want to include it later]
+ [LinkedIn or personal portfolio link if you want to include it later]
